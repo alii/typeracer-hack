@@ -14,6 +14,8 @@ $ yarn
 
 ## How do I use it?
 
+Firstly, configure `config.json` to have your race's id. After that, run the command below.
+
 ```bash
 $ node index.js
 ```
